@@ -1,0 +1,3 @@
+Sample input files are attached in the TestFile folder
+
+Run all the java classes from the com.rest.main package using input files
